@@ -1,0 +1,7 @@
+# Verilator Configuration and Lint Flags
+-Wall
+-Wno-DECLFILENAME
+-Wno-UNUSEDPARAM
+-Wno-UNUSEDSIGNAL
+-Wno-MULTITOP
+-Irtl
