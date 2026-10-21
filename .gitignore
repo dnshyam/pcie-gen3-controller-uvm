@@ -1,0 +1,19 @@
+# Verilator artifacts
+obj_dir/
+*.vcd
+*.fst
+
+# Python / cocotb / pytest artifacts
+__pycache__/
+*.pyc
+*.pyo
+sim_build/
+results.xml
+.pytest_cache/
+
+# OS / Editor clutter
+.DS_Store
+*.swp
+*~
+.vscode/
+.idea/
